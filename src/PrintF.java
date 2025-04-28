@@ -30,5 +30,7 @@ Tabla:
         // SIMPLEMENTE EL SOUF HACE EL CODIGO MAS LEGIBLE
         // Si deseamos mostrar aunque sea un dato en consola, usamos printf
         // Si solo queremos mostrar un mensaje sin datos usamos sout
+        
+        // Para imprimir en consola un % como texto normal, se utiliza %% (solo asi se imprime un solo símbolo % en pantalla).
     }
 }
